@@ -26,4 +26,4 @@ Phase 2 Scanner Demonstration:(https://youtu.be/3dA9U286-8o)
 
 Issues: RGB LED would not work, reason was a resistor was loose in the breadboard, another issue was poor cable management and assemble leading to the setup being confusing and hard and unpractical
 
-## Phase 3
+## Phase 3 
