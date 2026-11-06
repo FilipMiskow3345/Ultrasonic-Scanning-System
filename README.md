@@ -27,3 +27,6 @@ Phase 2 Scanner Demonstration:(https://youtu.be/3dA9U286-8o)
 Issues: RGB LED would not work, reason was a resistor was loose in the breadboard, another issue was poor cable management and assemble leading to the setup being confusing and hard and unpractical
 
 ## Phase 3 
+The final phase, focused on assembling the complete system and improving its layout, stability and usability 
+
+Improvements- Added an LCD to display distance measurements, Improved cable management and made the setup more compact, added custom mounts and brackets, improved the scanners physical stability
