@@ -29,4 +29,10 @@ Issues: RGB LED would not work, reason was a resistor was loose in the breadboar
 ## Phase 3 
 The final phase, focused on assembling the complete system and improving its layout, stability and usability 
 
+<img width="384.0" height="208.8" alt="sonar bracket plan" src="https://github.com/user-attachments/assets/5689b87e-1e08-4b19-9151-2648c5059eec" />
+<img width="384.0" height="207.4" alt="servo motor bracket plan" src="https://github.com/user-attachments/assets/e86934d7-d550-43bf-95eb-292b869a3a44" />
+<img width="250.2" height="218.8" alt="image" src="https://github.com/user-attachments/assets/2831d04f-1754-4960-ab48-18d7c16c0402" />
+<img width="200.2" height="190.8" alt="image" src="https://github.com/user-attachments/assets/54891df0-04e4-4719-b456-09975db0a892" />
+
+
 Improvements- Added an LCD to display distance measurements, Improved cable management and made the setup more compact, added custom mounts and brackets, improved the scanners physical stability
